@@ -37,4 +37,4 @@ class Doc extends CI_Controller {
 * @ApiReturn(type="...", sample="...")
 * @ApiBody(sample="...")
 
-详情请见：[https://github.com/calinrada/php-apidoc/blob/master/README.md](https://github.com/calinrada/php-apidoc/blob/master/README.md)
+更多详情请见：[https://github.com/calinrada/php-apidoc/blob/master/README.md](https://github.com/calinrada/php-apidoc/blob/master/README.md)
